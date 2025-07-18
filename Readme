@@ -1,0 +1,88 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Projekt25;Unser+Webprojekt+mit+Scrum;HTML+%26+CSS+%26+JavaScript" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/DeinUserName/Projekt25">
+    <img src="https://img.shields.io/badge/Technologien-HTML%20|%20CSS%20|%20JavaScript-blue?style=for-the-badge" alt="Technologien" />
+  </a>
+  <a href="https://scrumguides.org/">
+    <img src="https://img.shields.io/badge/SCRUM-Projektmanagement-6DB33F?style=for-the-badge" alt="SCRUM" />
+  </a>
+</div>
+
+---
+
+## 🚀 Über Projekt25
+
+**Projekt25** ist ein gemeinsames Webentwicklungsprojekt, das im Rahmen einer 3-wöchigen Teamarbeit mit drei Personen umgesetzt wird. Ziel ist es, eine moderne, responsive Webanwendung mit den Kerntechnologien **HTML**, **CSS** und **JavaScript** zu erstellen.
+
+Das Projekt wird agil mit der **Scrum-Methodik** organisiert, um effiziente Zusammenarbeit, klare Aufgabenverteilung und kontinuierliche Verbesserungen zu gewährleisten.
+
+---
+
+## 🛠️ Verwendete Technologien
+
+| Technologie      | Beschreibung                           |
+|------------------|-------------------------------------|
+| **HTML5**        | Strukturierung der Webseite          |
+| **CSS3**         | Gestaltung und responsives Design    |
+| **JavaScript**   | Interaktive Funktionen und Logik     |
+
+---
+
+## 📋 Projektmanagement & Scrum
+
+Wir setzen **Scrum** ein, um die Zusammenarbeit im Team zu strukturieren:
+
+- **Teamgröße:** 3 Personen  
+- **Dauer:** 3 Wochen  
+- **Sprints:** 3 Sprints à 1 Woche  
+
+### Scrum Artefakte & Prozesse
+
+| Artefakt         | Beschreibung                          |
+|------------------|-------------------------------------|
+| **Product Backlog** | Sammlung aller Features und Aufgaben |
+| **Sprint Backlog**  | Aufgaben für den aktuellen Sprint    |
+| **Daily Stand-up**  | Tägliches kurzes Team-Meeting        |
+| **Sprint Review**  | Rückblick und Feedback zum Sprint    |
+| **Sprint Retrospective** | Reflexion und Verbesserung des Teams |
+
+### User Stories (Beispiele)
+
+- Als Nutzer möchte ich eine intuitive Navigation, damit ich mich leicht zurechtfinde.  
+- Als Besucher will ich, dass die Seite auf mobilen Geräten gut aussieht.  
+- Als Teammitglied möchte ich Aufgaben klar zugewiesen bekommen, um effizient zu arbeiten.
+
+---
+
+## 📅 Projektablauf
+
+| Woche   | Fokus                                   |
+|---------|----------------------------------------|
+| **Woche 1** | Planung, Design & Setup der Basisstruktur |
+| **Woche 2** | Implementierung der Hauptfunktionen     |
+| **Woche 3** | Testing, Optimierung & Deployment       |
+
+---
+
+## 📚 Dokumentation
+
+Die Dokumentation umfasst:
+
+- Projektbeschreibung & Ziele  
+- Scrum Artefakte & Prozesse  
+- User Stories & Backlogs  
+- Technische Architektur  
+- Herausforderungen & Lessons Learned  
+- Screenshots & Demo-Links  
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeinUserName&color=blue" alt="Profile Views" />
+  <br><br>
+  <b>Danke fürs Vorbeischauen! 👋</b><br>
+  <i>Wir freuen uns über Feedback, Issues und Pull Requests.</i>
+</div>
