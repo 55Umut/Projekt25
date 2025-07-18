@@ -1,88 +1,94 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Projekt25;Unser+Webprojekt+mit+Scrum;HTML+%26+CSS+%26+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Willkommen+bei+Projekt25;Ein+SCRUM-basiertes+Webprojekt;HTML+CSS+JavaScript;Teamarbeit+%7C+Lernen+%7C+Umsetzung" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/DeinUserName/Projekt25">
-    <img src="https://img.shields.io/badge/Technologien-HTML%20|%20CSS%20|%20JavaScript-blue?style=for-the-badge" alt="Technologien" />
-  </a>
-  <a href="https://scrumguides.org/">
-    <img src="https://img.shields.io/badge/SCRUM-Projektmanagement-6DB33F?style=for-the-badge" alt="SCRUM" />
+  <a href="https://github.com/DEIN_TEAM/Projekt25">
+    <img src="https://img.shields.io/badge/🔭%20Aktuell-Projekt25-brightgreen?style=for-the-badge" alt="Projekt25" />
   </a>
 </div>
 
 ---
 
-## 🚀 Über Projekt25
+## 🚀 Über das Projekt25
 
-**Projekt25** ist ein gemeinsames Webentwicklungsprojekt, das im Rahmen einer 3-wöchigen Teamarbeit mit drei Personen umgesetzt wird. Ziel ist es, eine moderne, responsive Webanwendung mit den Kerntechnologien **HTML**, **CSS** und **JavaScript** zu erstellen.
+**Projekt25** ist ein dreiwöchiges Teamprojekt im Rahmen unserer Weiterbildung/Umschulung zum Fachinformatiker Anwendungsentwicklung. Ziel ist die Entwicklung einer modernen Webanwendung mithilfe von **HTML**, **CSS** und **JavaScript**, sowie die Umsetzung strukturierter Teamarbeit nach der **Scrum-Methode**.
 
-Das Projekt wird agil mit der **Scrum-Methodik** organisiert, um effiziente Zusammenarbeit, klare Aufgabenverteilung und kontinuierliche Verbesserungen zu gewährleisten.
-
----
-
-## 🛠️ Verwendete Technologien
-
-| Technologie      | Beschreibung                           |
-|------------------|-------------------------------------|
-| **HTML5**        | Strukturierung der Webseite          |
-| **CSS3**         | Gestaltung und responsives Design    |
-| **JavaScript**   | Interaktive Funktionen und Logik     |
+Unser Fokus liegt auf:
+- agiler Zusammenarbeit im Team
+- einer durchdachten Benutzeroberfläche (UI/UX)
+- sauberer Frontend-Logik mit JavaScript
+- lernorientierter Projektarbeit
 
 ---
 
-## 📋 Projektmanagement & Scrum
+## 🔧 Verwendete Technologien
 
-Wir setzen **Scrum** ein, um die Zusammenarbeit im Team zu strukturieren:
-
-- **Teamgröße:** 3 Personen  
-- **Dauer:** 3 Wochen  
-- **Sprints:** 3 Sprints à 1 Woche  
-
-### Scrum Artefakte & Prozesse
-
-| Artefakt         | Beschreibung                          |
-|------------------|-------------------------------------|
-| **Product Backlog** | Sammlung aller Features und Aufgaben |
-| **Sprint Backlog**  | Aufgaben für den aktuellen Sprint    |
-| **Daily Stand-up**  | Tägliches kurzes Team-Meeting        |
-| **Sprint Review**  | Rückblick und Feedback zum Sprint    |
-| **Sprint Retrospective** | Reflexion und Verbesserung des Teams |
-
-### User Stories (Beispiele)
-
-- Als Nutzer möchte ich eine intuitive Navigation, damit ich mich leicht zurechtfinde.  
-- Als Besucher will ich, dass die Seite auf mobilen Geräten gut aussieht.  
-- Als Teammitglied möchte ich Aufgaben klar zugewiesen bekommen, um effizient zu arbeiten.
+| Technologie   | Beschreibung                           |
+|---------------|----------------------------------------|
+| **HTML5**     | Grundstruktur der Webseite             |
+| **CSS3**      | Design, Layout & Responsive Design     |
+| **JavaScript**| Interaktive Funktionen & App-Logik     |
 
 ---
 
-## 📅 Projektablauf
+## 📋 Scrum & Projektmanagement
 
-| Woche   | Fokus                                   |
-|---------|----------------------------------------|
-| **Woche 1** | Planung, Design & Setup der Basisstruktur |
-| **Woche 2** | Implementierung der Hauptfunktionen     |
-| **Woche 3** | Testing, Optimierung & Deployment       |
+Wir arbeiten **SCRUM-basiert** mit folgenden Elementen:
+
+### Rollen im Team
+- **Product Owner** – Vision, Zieldefinition, Priorisierung
+- **Scrum Master** – Moderation, Methodik, Hindernisse beseitigen
+- **Developer Team** – Umsetzung der Features
+
+### Sprint-Zyklus
+- 📅 **Dauer:** 3 Wochen  
+- 🔁 **Sprints:** 3 (je 1 Woche)  
+- 📌 **Meetings:** Sprint Planning, Daily Stand-ups, Sprint Review, Retrospektive
+
+### Beispiele für User Stories
+
+| ID | User Story |
+|----|------------|
+| #1 | Als Nutzer möchte ich eine einfache Navigation, um die Seite intuitiv nutzen zu können. |
+| #2 | Als User möchte ich Inhalte mobilfreundlich angezeigt bekommen. |
+| #3 | Als Teammitglied will ich meine Aufgaben klar verteilt bekommen. |
 
 ---
 
-## 📚 Dokumentation
+## 📚 Lernfortschritt & Team-Skills
 
-Die Dokumentation umfasst:
+| Teammitglied        | HTML/CSS | JavaScript | Teamarbeit | Scrum-Kenntnisse |
+|---------------------|----------|------------|------------|------------------|
+| **Mitglied A**      | ⭐⭐⭐      | ⭐⭐         | ⭐⭐⭐⭐       | ⭐⭐⭐             |
+| **Mitglied B**      | ⭐⭐       | ⭐⭐⭐        | ⭐⭐⭐        | ⭐⭐⭐⭐            |
+| **Mitglied C**      | ⭐⭐⭐⭐     | ⭐⭐         | ⭐⭐⭐⭐       | ⭐⭐              |
 
-- Projektbeschreibung & Ziele  
-- Scrum Artefakte & Prozesse  
-- User Stories & Backlogs  
-- Technische Architektur  
-- Herausforderungen & Lessons Learned  
-- Screenshots & Demo-Links  
+> 🔎 Jeder bringt individuelle Stärken mit – wir lernen voneinander und gemeinsam.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeinUserName&color=blue" alt="Profile Views" />
-  <br><br>
-  <b>Danke fürs Vorbeischauen! 👋</b><br>
-  <i>Wir freuen uns über Feedback, Issues und Pull Requests.</i>
-</div>
+## 🧩 Tools & Plattformen
+
+> Für Entwicklung, Planung und Dokumentation verwenden wir:
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🗂️ Projektstruktur (Beispiel)
+
+```plaintext
+/Projekt25
+│
+├── index.html
+├── style/
+│   └── main.css
+├── js/
+│   └── app.js
+├── assets/
+│   └── images, icons, etc.
+└── README.md
