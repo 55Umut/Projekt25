@@ -1,94 +1,97 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Willkommen+bei+Projekt25;Ein+SCRUM-basiertes+Webprojekt;HTML+CSS+JavaScript;Teamarbeit+%7C+Lernen+%7C+Umsetzung" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Willkommen+bei+Projekt25;Ein+SCRUM-basiertes+Webprojekt;Frontend+mit+HTML+%2B+CSS+%2B+JavaScript;Teamarbeit+%7C+Lernen+%7C+Umsetzung" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/DEIN_TEAM/Projekt25">
-    <img src="https://img.shields.io/badge/🔭%20Aktuell-Projekt25-brightgreen?style=for-the-badge" alt="Projekt25" />
+  <a href="https://github.com/DEIN-TEAM/Projekt25">
+    <img src="https://img.shields.io/badge/🔭%20Aktuell-Projekt25-brightgreen?style=for-the-badge" alt="Aktuelles Projekt: Projekt25" />
   </a>
 </div>
 
 ---
 
-## 🚀 Über das Projekt25
+## 👋 Hi, wir sind das Team hinter **Projekt25**
 
-**Projekt25** ist ein dreiwöchiges Teamprojekt im Rahmen unserer Weiterbildung/Umschulung zum Fachinformatiker Anwendungsentwicklung. Ziel ist die Entwicklung einer modernen Webanwendung mithilfe von **HTML**, **CSS** und **JavaScript**, sowie die Umsetzung strukturierter Teamarbeit nach der **Scrum-Methode**.
-
-Unser Fokus liegt auf:
-- agiler Zusammenarbeit im Team
-- einer durchdachten Benutzeroberfläche (UI/UX)
-- sauberer Frontend-Logik mit JavaScript
-- lernorientierter Projektarbeit
+Wir befinden uns in einer **Weiterbildung zum Fachinformatiker Anwendungsentwicklung** und setzen gemeinsam das Webprojekt **Projekt25** um – ein modernes, responsive Frontend-Projekt mit Fokus auf **Teamarbeit, Scrum** und den Technologien **HTML, CSS und JavaScript**.
 
 ---
 
-## 🔧 Verwendete Technologien
+## 💼 Projektstatus
 
-| Technologie   | Beschreibung                           |
-|---------------|----------------------------------------|
-| **HTML5**     | Grundstruktur der Webseite             |
-| **CSS3**      | Design, Layout & Responsive Design     |
-| **JavaScript**| Interaktive Funktionen & App-Logik     |
-
----
-
-## 📋 Scrum & Projektmanagement
-
-Wir arbeiten **SCRUM-basiert** mit folgenden Elementen:
-
-### Rollen im Team
-- **Product Owner** – Vision, Zieldefinition, Priorisierung
-- **Scrum Master** – Moderation, Methodik, Hindernisse beseitigen
-- **Developer Team** – Umsetzung der Features
-
-### Sprint-Zyklus
-- 📅 **Dauer:** 3 Wochen  
-- 🔁 **Sprints:** 3 (je 1 Woche)  
-- 📌 **Meetings:** Sprint Planning, Daily Stand-ups, Sprint Review, Retrospektive
-
-### Beispiele für User Stories
-
-| ID | User Story |
-|----|------------|
-| #1 | Als Nutzer möchte ich eine einfache Navigation, um die Seite intuitiv nutzen zu können. |
-| #2 | Als User möchte ich Inhalte mobilfreundlich angezeigt bekommen. |
-| #3 | Als Teammitglied will ich meine Aufgaben klar verteilt bekommen. |
+- 🔭 Wir arbeiten aktuell an: **Projekt25 – einer webbasierten Anwendung**
+- 🤝 Zusammenarbeit gesucht bei: **Feature-Ideen, Testing & UX**
+- 🌱 Lernziel: **Scrum-Prozesse im Team anwenden und Frontend strukturieren**
+- 📫 Kontakt: `projekt25-team@example.com`
 
 ---
 
-## 📚 Lernfortschritt & Team-Skills
+## 🔧 Tech Stack & Tools
 
-| Teammitglied        | HTML/CSS | JavaScript | Teamarbeit | Scrum-Kenntnisse |
-|---------------------|----------|------------|------------|------------------|
-| **Mitglied A**      | ⭐⭐⭐      | ⭐⭐         | ⭐⭐⭐⭐       | ⭐⭐⭐             |
-| **Mitglied B**      | ⭐⭐       | ⭐⭐⭐        | ⭐⭐⭐        | ⭐⭐⭐⭐            |
-| **Mitglied C**      | ⭐⭐⭐⭐     | ⭐⭐         | ⭐⭐⭐⭐       | ⭐⭐              |
+### 🧪 Programmiersprachen & Frameworks
 
-> 🔎 Jeder bringt individuelle Stärken mit – wir lernen voneinander und gemeinsam.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+### 🧰 Projektmanagement & DevTools
 
-## 🧩 Tools & Plattformen
-
-> Für Entwicklung, Planung und Dokumentation verwenden wir:
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🗂️ Projektstruktur (Beispiel)
+## 🧩 Scrum & Agile Workflow
 
-```plaintext
-/Projekt25
-│
-├── index.html
-├── style/
-│   └── main.css
-├── js/
-│   └── app.js
-├── assets/
-│   └── images, icons, etc.
-└── README.md
+| Scrum-Element        | Beschreibung |
+|----------------------|--------------|
+| 📌 **Product Backlog**      | Alle User Stories und Features |
+| 🗂️ **Sprint Backlog**       | Aufgaben für den aktuellen Sprint |
+| 📅 **Daily Standups**       | 15-minütige tägliche Meetings |
+| ✅ **Sprint Reviews**       | Feedback-Runden nach jedem Sprint |
+| 🔁 **Retrospektive**        | Was lief gut? Was verbessern? |
+
+### 📋 Beispiel-User-Stories
+
+- Als Nutzer möchte ich eine übersichtliche Navigation.
+- Als Besucher will ich Inhalte auch auf dem Smartphone gut sehen.
+- Als Entwickler möchte ich Komponenten modular strukturieren.
+
+---
+
+## 📌 Projektverlauf (3 Wochen Scrum-Zyklus)
+
+| Woche | Sprint-Ziel |
+|-------|-------------|
+| ✅ Woche 1 | Planung, Design-Phase, Setup |
+| 🔄 Woche 2 | Hauptfunktionen implementieren |
+| ⏳ Woche 3 | Testing, Bugfixing, Optimierung, Dokumentation |
+
+---
+
+## 🧠 Skills im Team
+
+| Name      | HTML/CSS | JavaScript | Scrum | GitHub |
+|-----------|----------|------------|--------|--------|
+| Teammitglied A | ⭐⭐⭐⭐     | ⭐⭐         | ⭐⭐⭐    | ⭐⭐⭐    |
+| Teammitglied B | ⭐⭐⭐      | ⭐⭐⭐        | ⭐⭐     | ⭐⭐     |
+
+
+---
+
+## 🔗 Links & Ressourcen
+
+- 🖥️ **Live-Demo (in Kürze):** [projekt25.live](https://projekt25.live) *(Platzhalter)*
+- 📄 **Dokumentation:** [docs/](./docs/)
+- 📌 **Projektboard:** [Trello Board](https://trello.com/Projekt25) *(Platzhalter)*
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DEIN-TEAMNAME&color=blue" alt="Profile Views" />
+  <br><br>
+  <b>Danke fürs Vorbeischauen bei Projekt25! 👋</b><br>
+  <i>Bei Fragen, Anregungen oder Interesse an Zusammenarbeit – kontaktiere uns gerne!</i>
+</div>
