@@ -1,10 +1,201 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Burger Shop Drag & Drop</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 </head>
-<body>
-
+<body id="bod">
+  <div class="body-header">
+    <div class="burger-toggle-container" id="container">
+      <div class="burger-toggle-border" id="border">
+        <div class="burger-toggle" id="toggle" onclick="roll()"></div>
+      </div>
+    </div>
+  </div>
+  <div class="burger-shop-board">
+    <div class="col" id="ingredients-col">
+      <div class="heading">
+        <h4 id="heading">Zutaten</h4>
+        <img id="plus" width="32" height="32" src="https://img.icons8.com/sf-black-filled/64/FFFFFF/plus.png" alt="plus" onclick="modal()"/>
+      </div>
+      <div class="wrapper" id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
+        <div class="burger-card" id="1" draggable="true" ondragstart="drag(event)">
+          <div class="card">
+            <div class="header">
+              <h5 class="purple">Burger</h5>
+            </div>
+            <div class="content">
+              <h3>Oberer Bun</h3>
+              <img src="C:\Users\IT\Desktop\Projekt25\src\asset\BUN.png" alt="Top Bun" width="100">
+            </div>
+            <div class="footer">
+              <div class="date">
+                <img width="25" height="25" src="https://img.icons8.com/sf-black-filled/64/BFBFFC/calendar-plus.png" alt="calendar-plus"/>
+                <p>18 Jul 2025</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="burger-card" id="2" draggable="true" ondragstart="drag(event)">
+          <div class="card">
+            <div class="header">
+              <h5 class="grey">Burger</h5>
+            </div>
+            <div class="content">
+              <h3>Salat</h3>
+              <img src="lettuce.png" alt="Lettuce" width="100">
+            </div>
+            <div class="footer">
+              <div class="date">
+                <img width="25" height="25" src="https://img.icons8.com/sf-black-filled/64/DFDFDF/calendar-plus.png" alt="calendar-plus"/>
+                <p>18 Jul 2025</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="burger-card" id="3" draggable="true" ondragstart="drag(event)">
+          <div class="card">
+            <div class="header">
+              <h5 class="green">Burger</h5>
+            </div>
+            <div class="content">
+              <h3>Gurken</h3>
+              <img src="cucumber.png" alt="Cucumber" width="100">
+            </div>
+            <div class="footer">
+              <div class="date">
+                <img width="25" height="25" src="https://img.icons8.com/sf-black-filled/64/CFF2A5/calendar-plus.png" alt="calendar-plus"/>
+                <p>18 Jul 2025</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="burger-card" id="4" draggable="true" ondragstart="drag(event)">
+          <div class="card">
+            <div class="header">
+              <h5 class="blue">Burger</h5>
+            </div>
+            <div class="content">
+              <h3>Tomaten</h3>
+              <img src="tomato.png" alt="Tomato" width="100">
+            </div>
+            <div class="footer">
+              <div class="date">
+                <img width="25" height="25" src="https://img.icons8.com/sf-black-filled/64/BFD3FC/calendar-plus.png" alt="calendar-plus"/>
+                <p>18 Jul 2025</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="burger-card" id="5" draggable="true" ondragstart="drag(event)">
+          <div class="card">
+            <div class="header">
+              <h5 class="purple">Burger</h5>
+            </div>
+            <div class="content">
+              <h3>Zwiebeln</h3>
+              <img src="onion.png" alt="Onion" width="100">
+            </div>
+            <div class="footer">
+              <div class="date">
+                <img width="25" height="25" src="https://img.icons8.com/sf-black-filled/64/BFBFFC/calendar-plus.png" alt="calendar-plus"/>
+                <p>18 Jul 2025</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="burger-card" id="6" draggable="true" ondragstart="drag(event)">
+          <div class="card">
+            <div class="header">
+              <h5 class="grey">Burger</h5>
+            </div>
+            <div class="content">
+              <h3>Käse</h3>
+              <img src="cheese.png" alt="Cheese" width="100">
+            </div>
+            <div class="footer">
+              <div class="date">
+                <img width="25" height="25" src="https://img.icons8.com/sf-black-filled/64/DFDFDF/calendar-plus.png" alt="calendar-plus"/>
+                <p>18 Jul 2025</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="burger-card" id="7" draggable="true" ondragstart="drag(event)">
+          <div class="card">
+            <div class="header">
+              <h5 class="green">Burger</h5>
+            </div>
+            <div class="content">
+              <h3>Patty</h3>
+              <img src="C:\Users\IT\Desktop\Projekt25\src\asset\Patty.png" alt="Patty" width="100">
+            </div>
+            <div class="footer">
+              <div class="date">
+                <img width="25" height="25" src="https://img.icons8.com/sf-black-filled/64/CFF2A5/calendar-plus.png" alt="calendar-plus"/>
+                <p>18 Jul 2025</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="burger-card" id="8" draggable="true" ondragstart="drag(event)">
+          <div class="card">
+            <div class="header">
+              <h5 class="blue">Burger</h5>
+            </div>
+            <div class="content">
+              <h3>Unterer Bun</h3>
+              <img src="bottom-bun.png" alt="Bottom Bun" width="100">
+            </div>
+            <div class="footer">
+              <div class="date">
+                <img width="25" height="25" src="https://img.icons8.com/sf-black-filled/64/BFD3FC/calendar-plus.png" alt="calendar-plus"/>
+                <p>18 Jul 2025</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="heading">
+        <h4 id="heading">Burger-Bau</h4>
+      </div>
+      <div class="wrapper burger-stack" id="div2" ondrop="drop(event)" ondragover="allowDrop(event)">
+      </div>
+    </div>
+  </div>
+  <div id="burger-modal">
+    <div class="burger-modal-content">
+      <div class="burger-modal-content-header">
+        <div class="header">
+          <h5 class="purple" id="preview">Neue Zutat</h5>
+          <div class="color-picker purple" onclick="purple()"></div>
+          <div class="color-picker grey" onclick="grey()"></div>
+          <div class="color-picker green" onclick="green()"></div>
+          <div class="color-picker blue" onclick="blue()"></div>
+        </div>
+        <button type="button" onclick="modalclose()" class="modal-close-btn"></button>
+      </div>
+      <div class="burger-modal-content-main">
+        <form class="burger-form">
+          <label>Zutat</label>
+          <input id="ingredient" type="text" name="ingredient" required/>
+          <label>Bild-URL</label>
+          <input id="image" type="text" name="image" required/>
+          <div class="burger-modal-content-footer">
+            <div class="burger-glowing-button">
+              <button class="burger-button" type="submit">Hinzufügen</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <p class="disclaimer" id="disclaimer">Designed & Created by <b>BurgerShop</b> | Icons by <a href="https://icons8.com/" target="_blank">Icons8</a></p>
+  <script src="script.js"></script>
 </body>
 </html>
