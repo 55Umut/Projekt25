@@ -9,9 +9,4 @@ const connection = mysql.createConnection({
 
 connection.connect();
 
-connection.query('SELECT * FROM orders', (error, results) => {
-    if (error) throw error;
-    console.log(results);
-});
-
-connection.end();
+module.exports = connection;
